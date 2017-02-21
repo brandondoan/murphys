@@ -1,0 +1,26 @@
+.ui.borderless.topmenu.container.menu {
+  box-shadow: none;
+  border: none;
+}
+
+.background-murphys {
+  margin-top: 40px;
+  background: url('http://murphyshawaii.com/media/2014/04/murphys-front.jpg') no-repeat center center fixed;
+  background-size: cover;
+  height: 500px;
+}
+ .ui.murphys.centered.image {
+   margin-top: 150px;
+ }
+
+ .column.murphy.text {
+   color: white;
+   font-family: 'Open Sans', Arial, sans-serif;
+   margin-top: 165px;
+   text-align: center;
+   font-size: 20px;
+   font-weight: 400;
+   line-height: 30px;
+   padding-left: 40px;
+   padding-right: 40px;
+ }
